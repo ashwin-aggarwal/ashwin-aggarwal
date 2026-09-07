@@ -5,9 +5,9 @@
 
 ---
 
-Interests: Machine Learning, Agentic AI systems, and robotics
+**Interests**: Machine Learning, Agentic AI systems, and robotics
 
-I am currently working on:
+##I am currently working on:
 
 - [ ] Personal Website (WIP)
 - [ ] Learning PyTorch and ML Fundamentals with [TensorTonic](https://github.com/)
