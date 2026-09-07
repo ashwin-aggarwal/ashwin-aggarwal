@@ -1,6 +1,6 @@
 <div align="center">
 
-<h1>Hi! I am <a href="https://ashwin-aggarwal.github.io">Ashwin Aggarwal</a></h1>
+<h1>Hi! I am <a href="https://ashwin-aggarwal.github.io">Ashwin Aggarwal.</a></h1>
 </div>
 
 ---
