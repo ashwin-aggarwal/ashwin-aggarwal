@@ -11,4 +11,3 @@ I am currently working on:
 
 - [ ] Personal Website (WIP)
 - [ ] Learning PyTorch and ML Fundamentals with [TensorTonic](https://github.com/)
-- [ ] Weaver — multi-agent research assistant (Claude API, Neo4j)
