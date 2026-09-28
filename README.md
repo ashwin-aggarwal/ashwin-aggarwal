@@ -10,7 +10,7 @@
 <h2>I am currently working on:</h2>
 
 - [ ] Personal Website (WIP) @ https://ashwin-aggarwal.github.io
-- [ ] Exploring the new JEV model by Typesafe [link](https://typesafe.ai/blog/introducing-system-one-models-and-jev)
+- [x] Exploring the new JEV model by Typesafe [link](https://typesafe.ai/blog/introducing-system-one-models-and-jev)
 - [ ] Learning PyTorch and ML Fundamentals with [TensorTonic](https://github.com/)
 
 <h2>Recent Readings:</h2>
