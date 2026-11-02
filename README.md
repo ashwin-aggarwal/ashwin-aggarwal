@@ -5,7 +5,7 @@
 
 ---
 
-**Interests**: Machine Learning, Agentic AI systems, and robotics
+**Interests**: Machine Learning, Agentic AI systems, and AI Safety
 
 <h2>I am currently working on:</h2>
 
