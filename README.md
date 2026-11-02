@@ -18,3 +18,4 @@
 
 - [x] GraphRAG by Microsoft Research --> [link](https://arxiv.org/pdf/2404.16130)
 - [x] AMA's updated AI safety policies --> [link](https://www.ama-assn.org/practice-management/digital-health/liability-clinical-ai)
+- [ ] Anthropic's research article about Agent Misalignment --> [link](https://www.anthropic.com/research/agentic-misalignment)
