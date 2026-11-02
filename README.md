@@ -12,7 +12,7 @@
 - [ ] Personal Website (WIP) @ https://ashwin-aggarwal.github.io
 - [x] Exploring the new JEV model by Typesafe --> [link](https://typesafe.ai/blog/introducing-system-one-models-and-jev)
 - [ ] Learning PyTorch and ML Fundamentals with [TensorTonic](https://github.com/)
-- [ ] Contributing to [Microduck](https://github.com/pollen-robotics/microduck) with [CGAI](https://cornellgenai.vercel.app/)
+- [ ] Contributing to open-source projects like [Microduck](https://github.com/pollen-robotics/microduck) with [CGAI](https://cornellgenai.vercel.app/)
 
 <h2>Recent Readings:</h2>
 
