@@ -17,4 +17,4 @@
 <h2>Recent Readings:</h2>
 
 - [x] GraphRAG by Microsoft Research --> [link](https://arxiv.org/pdf/2404.16130)
-- [ ] AMA's updated AI safety policies --> [link](https://www.ama-assn.org/practice-management/digital-health/liability-clinical-ai)
+- [x] AMA's updated AI safety policies --> [link](https://www.ama-assn.org/practice-management/digital-health/liability-clinical-ai)
