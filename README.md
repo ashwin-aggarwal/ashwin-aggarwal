@@ -3,7 +3,7 @@
 <h1>Hi! I am <a href="https://ashwin-aggarwal.github.io">Ashwin Aggarwal.</a></h1>
 </div>
 <div align="center">
-<h2>Click <a href="https://ashwin-aggarwal.github.io/blog/"> here <a/> to read my blog!</h2>
+<h2>Click here to read my <a href="https://ashwin-aggarwal.github.io/blog/"> blog! <a/></h2>
 </div>
 
 
