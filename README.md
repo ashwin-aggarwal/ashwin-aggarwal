@@ -6,6 +6,7 @@
 ---
 
 **Interests**: Machine Learning, Agentic AI systems, and AI Safety
+Click [here](https://ashwin-aggarwal.github.io/blog/) to read my blog!
 
 <h2>I am currently working on:</h2>
 
